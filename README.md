@@ -29,4 +29,20 @@ A classic analog clock implemented using HTML, CSS, and JavaScript. This project
 Simply open the `index.html` file in your browser to view and interact with the analog clock. No additional setup is required.
 
 ## Screenshots
-![Screenshot of the project](https://postimg.cc/HJ3vwDZv)
+![Screenshot of the project](https://github.com/kushalking/Analog-Clock/blob/e202905ead93946b125027a9b56d360c97158d8a/Assets/images/2024-05-24%2017_52_48-.png)
+
+## Customization
+
+You can customize the clock's appearance by modifying the CSS variables in the `style.css` file.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+This project was inspired by my love for classic analog clocks and the desire to recreate their beauty using web technologies.
